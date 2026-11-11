@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=950&height=45&lines=Hi+%F0%9F%91%8B+I%27m+Rammal+Ahmed;Microsoft+Dynamics+365+Developer+%7C+Data+Analyst+%7C+UI%2FUX+Designer+%7C+Graphic+Illustrator;Learning+AI+Data+Science+%26+Python+Analytics;Turning+Data+into+Intelligence%2C+One+Algorithm+at+a+Time" alt="Hi, I'm Rammal Ahmed" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=6366F1&center=true&vCenter=true&width=880&height=110&lines=Hi+%F0%9F%91%8B+I%27m+Rammal+Ahmed;Dynamics+365+Developer+%7C+Data+Analyst+%7C+UI%2FUX+Designer;Learning+AI+Data+Science+%26+Python+Analytics;Turning+Data+into+Intelligence%2C+One+Algorithm+at+a+Time" alt="Hi, I'm Rammal Ahmed" />
 </p>
 
 <p align="center">
@@ -150,6 +150,12 @@ I'm passionate about leveraging AI and Machine Learning to solve real-world prob
   <a href="https://www.instagram.com/rammal_here"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:rammalahmed555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/Rammal-Ahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data%20Science-6366f1?style=flat-square" alt="Focus: AI/ML & Data Science" />
+  <img src="https://img.shields.io/badge/Learning-Python%20Analytics-8b5cf6?style=flat-square" alt="Learning: Python Analytics" />
 </p>
 
 <p align="center">
